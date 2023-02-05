@@ -5,4 +5,4 @@ It has basic features like previous, next, play, pause, adjust volume, adjust so
 
 Preview:
 
-![preview picture of the application](qtmediaplayer\images\preview-music-player.png)
+![preview picture of the application](qtmediaplayer\images\preview-music-player.png "preview of the application")
